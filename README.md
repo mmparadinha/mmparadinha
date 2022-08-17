@@ -1,4 +1,4 @@
-<h1 align="left">Well, hello, dear adventurer! 👋 Feel yourself at home!</h1>
+<h1 align="left">Well, hello, dear adventurer! 👋🧙🏻‍♂</h1>
 
 ###
 

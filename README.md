@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Hunting bugs since 2022<br>📚 I'm currently learning Front End Programming<br>🎯 My main ojbective revolves around programming to deliver quality of life to society alongside a cheerful party<br>🎲 One of my most unique trait dice rolls allows me to be good at grabbing and throwing objects with my feet</p>
+<p align="left">✨ Hunting bugs since 2022<br>📚 I'm currently learning Front End Programming with React<br>🎯 My main objective is to deliver quality of life to society alongside a cheerful party through programming<br>🎲 One of my most unique trait dice rolls allows me to be able to give myself foot cramp</p>
 
 ###
 

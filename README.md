@@ -10,13 +10,13 @@
 
 ###
 
-<p align="left">✨ Hunting bugs since 2022<br>📚 I'm currently learning Front End Programming with React<br>🎯 My main objective is to deliver quality of life to society alongside a cheerful party through programming<br>🎲 One of my most unique trait dice rolls allows me to be able to give myself foot cramp</p>
+<p align="left">✨ Hunting bugs since 2022<br>📚 I'm currently finishing a Full Stack Developer Course and developing my first authoral project<br>🎯 My main objective is to deliver quality of life to society alongside a cheerful party through programming<br>🎲 One of my most unique trait dice rolls allows me to be able to give myself foot cramp</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=mmparadinha" height="150" width="450" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=mmparadinha" height="150" width="450" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=mmparadinha" height="150" width="450" alt="languages graph"  />
 </div>
 
 ###
@@ -26,13 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgressql logo" />       
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,ts,mongodb,postgres,redis,docker,aws" />      
 </div>
 
 ###

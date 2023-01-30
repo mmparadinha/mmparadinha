@@ -1,16 +1,21 @@
-<h1 align="left">Well, hello, dear adventurer! 👋🧙🏻‍</h1>
+<h1 align="left">Bem, olá, caro aventureirx! 👋🧙🏻‍</h1>
 
 ###
 
-<p align="left">My name is Matheus and I'm a Full Stack Developer student from Brazil!</p>
+<p align="left">Me chamo Matheus e sou um Desenvolvedor Full Stack do Brasil 🇧🇷</p>
 
 ###
 
-<h2 align="left">My stats and traits</h2>
+<h2 align="left">Meus status e atributos 🧮</h2>
 
 ###
 
-<p align="left">✨ Hunting bugs since 2022<br>📚 I'm currently finishing a Full Stack Developer Course and developing my first authoral project<br>🎯 My main objective is to deliver quality of life to society alongside a cheerful party through programming<br>🎲 One of my most unique trait dice rolls allows me to be able to give myself foot cramp</p>
+<p align="left">
+  ✨ Caçando bugs desde 2018 e resolvendo desde 2022<br>
+  📚 Desenvolvedor Full Stack Júnior e trabalhando no meu primeiro projeto autoral<br>
+  🎯 Meu objetivo principal é entregar qualidade de vida para a sociedade junto de um grupo entusiasmado por meio da programação<br>
+  🎲 Um dos meus atributos mais curiosos: sim, é sobrenome mesmo e a culpa é do meu tataravô
+</p>
 
 ###
 
@@ -21,27 +26,36 @@
 
 ###
 
-<h2 align="left">I adventure myself with</h2>
+<h2 align="left">Eu me aventuro com ⚔️</h2>
 
 ###
 
+<h3 align="left">Front end</h3>
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,ts,mongodb,postgres,redis,docker,aws" />      
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />      
+</div>
+
+<h3 align="left">Back end</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws" />      
 </div>
 
 ###
 
-<!--
-**mmparadinha/mmparadinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Meus esconderijos 🏕️</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://www.linkedin.com/in/mmparadinha/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:matheusmparadinha@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+###

@@ -13,7 +13,7 @@
 
 <p align="left">
   🏹 Hunting bugs since 2018 and debugging since 2022<br>
-  📚 Junior Full Stack Developer and working on my first authoral project<br>
+  📚 Full Stack Developer and working on my first authoral project<br>
   🎯 My main goal is to deliver quality of life to society among a joyful party through programming<br>
   🎲 One of my most curious dice rolls: my nickname means "A little stop" in my language and I have my great-great-grandfather to blame
 </p>
@@ -78,7 +78,7 @@
 
 <p align="left">
   🏹 Caçando bugs desde 2018 e resolvendo desde 2022<br>
-  📚 Desenvolvedor Full Stack Júnior e trabalhando no meu primeiro projeto autoral<br>
+  📚 Desenvolvedor Full Stack e trabalhando no meu primeiro projeto autoral<br>
   🎯 Meu objetivo principal é entregar qualidade de vida para a sociedade junto de um grupo entusiasmado por meio da programação<br>
   🎲 Um dos meus atributos mais curiosos: sim, é sobrenome mesmo e a culpa é do meu tataravô
 </p>

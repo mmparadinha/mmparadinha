@@ -34,7 +34,7 @@
 <h3 align="left">Front end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />      
+  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css" />      
 </div>
 
 <h3 align="left">Back end</h3>
@@ -86,8 +86,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=mmparadinha" height="150" width="450" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=mmparadinha" height="150" width="450" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=mmparadinha" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=mmparadinha" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -99,7 +99,7 @@
 <h3 align="left">Front end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />      
+  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css" />      
 </div>
 
 <h3 align="left">Back end</h3>

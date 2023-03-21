@@ -34,13 +34,19 @@
 <h3 align="left">Front end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css" />      
+  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css,materialui" />      
 </div>
 
 <h3 align="left">Back end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws" />      
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,jest,prisma,redis,java,spring" />      
+</div>
+
+<h3 align="left">DevOps</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma,heroku,docker,aws" />      
 </div>
 
 ###
@@ -99,13 +105,19 @@
 <h3 align="left">Front end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css" />      
+  <img src="https://skillicons.dev/icons?i=react,js,express,styledcomponents,html,css,materialui" />      
 </div>
 
 <h3 align="left">Back end</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws" />      
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,jest,prisma,redis,java,spring" />      
+</div>
+
+<h3 align="left">DevOps</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma,heroku,docker,aws" />      
 </div>
 
 ###
